@@ -1,0 +1,2465 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Mon Jun 24 2019 14:26:24 GMT+0500 (Pakistan Standard Time)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Time elpased: 0
+________________________________________________________________________________________________
+Distance from right: undefined
+Distance from back : undefined
+Distance from front: undefined
+Distance from left : undefined
+Suggestion: 
+================================================================================================
+Time elpased: 0.5
+________________________________________________________________________________________________
+Distance from right: 7.14
+Distance from back : 7.88
+Distance from front: 6.32
+Distance from left : 7.33
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 1
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 7.84
+Distance from front: 6.28
+Distance from left : 7.57
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 1.5
+________________________________________________________________________________________________
+Distance from right: 6.86
+Distance from back : 8.38
+Distance from front: 6.28
+Distance from left : 7.33
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 2
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 8.35
+Distance from front: 6.36
+Distance from left : 7.53
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 2.5
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 8.85
+Distance from front: 6.32
+Distance from left : 7.45
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 3
+________________________________________________________________________________________________
+Distance from right: 6.75
+Distance from back : 7.84
+Distance from front: 7.02
+Distance from left : 7.84
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 3.5
+________________________________________________________________________________________________
+Distance from right: 6.75
+Distance from back : 7.14
+Distance from front: 7.49
+Distance from left : 7.92
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 4
+________________________________________________________________________________________________
+Distance from right: 6.55
+Distance from back : 7.29
+Distance from front: 7.02
+Distance from left : 7.76
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 4.5
+________________________________________________________________________________________________
+Distance from right: 6.75
+Distance from back : 7.45
+Distance from front: 5.93
+Distance from left : 7.21
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 5
+________________________________________________________________________________________________
+Distance from right: 6.75
+Distance from back : 7.72
+Distance from front: 5.89
+Distance from left : 7.29
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 5.5
+________________________________________________________________________________________________
+Distance from right: 6.75
+Distance from back : 7.45
+Distance from front: 5.77
+Distance from left : 7.33
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 6
+________________________________________________________________________________________________
+Distance from right: 6.75
+Distance from back : 7.29
+Distance from front: 5.77
+Distance from left : 7.61
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 6.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 7.21
+Distance from front: 5.81
+Distance from left : 7.68
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 7
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 7.37
+Distance from front: 5.85
+Distance from left : 7.76
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 7.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 7.57
+Distance from front: 5.77
+Distance from left : 8
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 8
+________________________________________________________________________________________________
+Distance from right: 7.06
+Distance from back : 7.45
+Distance from front: 5.77
+Distance from left : 7.92
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 8.5
+________________________________________________________________________________________________
+Distance from right: 7.33
+Distance from back : 7.14
+Distance from front: 5.69
+Distance from left : 7.61
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 9
+________________________________________________________________________________________________
+Distance from right: 6.83
+Distance from back : 7.18
+Distance from front: 5.97
+Distance from left : 7.64
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 9.5
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 7.21
+Distance from front: 6.12
+Distance from left : 7.68
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 10
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 7.41
+Distance from front: 6.4
+Distance from left : 7.64
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 10.5
+________________________________________________________________________________________________
+Distance from right: 7.45
+Distance from back : 7.41
+Distance from front: 6.44
+Distance from left : 7.64
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 11
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 7.25
+Distance from front: 6.59
+Distance from left : 7.76
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 11.5
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 7.64
+Distance from front: 6.51
+Distance from left : 8
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 12
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 7.41
+Distance from front: 6.4
+Distance from left : 8.15
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 12.5
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 7.1
+Distance from front: 6.28
+Distance from left : 8.03
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 13
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 7.41
+Distance from front: 6.28
+Distance from left : 8.07
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 13.5
+________________________________________________________________________________________________
+Distance from right: 6.83
+Distance from back : 7.57
+Distance from front: 6.32
+Distance from left : 8.7
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 14
+________________________________________________________________________________________________
+Distance from right: 7.02
+Distance from back : 7.8
+Distance from front: 6.55
+Distance from left : 8.27
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 14.5
+________________________________________________________________________________________________
+Distance from right: 7.21
+Distance from back : 6.47
+Distance from front: 6.51
+Distance from left : 5.81
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 15
+________________________________________________________________________________________________
+Distance from right: 6.9
+Distance from back : 6.08
+Distance from front: 6.4
+Distance from left : 135.33
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 15.5
+________________________________________________________________________________________________
+Distance from right: 6.67
+Distance from back : 6.16
+Distance from front: 6.24
+Distance from left : 38.22
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 16
+________________________________________________________________________________________________
+Distance from right: 7.33
+Distance from back : 6.2
+Distance from front: 6.59
+Distance from left : 7.21
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 16.5
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 976.44
+Distance from front: 6.44
+Distance from left : 5.97
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 17
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 976.44
+Distance from front: 6.79
+Distance from left : 5.97
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 17.5
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 976.44
+Distance from front: 6.55
+Distance from left : 5.3
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 18
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 976.44
+Distance from front: 6.51
+Distance from left : 5.5
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 18.5
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 976.44
+Distance from front: 6.55
+Distance from left : 5.15
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 19
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 976.44
+Distance from front: 6.55
+Distance from left : 5.5
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 19.5
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 976.44
+Distance from front: 6.51
+Distance from left : 5.23
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 20
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 976.44
+Distance from front: 6.51
+Distance from left : 5.11
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 20.5
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 976.44
+Distance from front: 6.36
+Distance from left : 4.41
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 21
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 976.44
+Distance from front: 6.36
+Distance from left : 4.37
+Suggestion: Apply breaks
+================================================================================================
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Mon Jun 24 2019 14:26:52 GMT+0500 (Pakistan Standard Time)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Time elpased: 0
+________________________________________________________________________________________________
+Distance from right: undefined
+Distance from back : undefined
+Distance from front: undefined
+Distance from left : undefined
+Suggestion: 
+================================================================================================
+Time elpased: 0.5
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 6.59
+Distance from front: 6.51
+Distance from left : 4.25
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 1
+________________________________________________________________________________________________
+Distance from right: 7.02
+Distance from back : 6.59
+Distance from front: 6.59
+Distance from left : 4.29
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 1.5
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 6.44
+Distance from front: 6.67
+Distance from left : 4.17
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 2
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 6.63
+Distance from front: 6.75
+Distance from left : 4.17
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 2.5
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 6.83
+Distance from front: 6.63
+Distance from left : 4.33
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 3
+________________________________________________________________________________________________
+Distance from right: 7.02
+Distance from back : 6.51
+Distance from front: 6.55
+Distance from left : 4.45
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 3.5
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 6.44
+Distance from front: 6.28
+Distance from left : 3.94
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 4
+________________________________________________________________________________________________
+Distance from right: 7.02
+Distance from back : 6.44
+Distance from front: 6.28
+Distance from left : 4.21
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 4.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 5.62
+Distance from front: 6.98
+Distance from left : 4.37
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 5
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 5.54
+Distance from front: 6.86
+Distance from left : 4.17
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 5.5
+________________________________________________________________________________________________
+Distance from right: 7.06
+Distance from back : 5.5
+Distance from front: 6.83
+Distance from left : 4.02
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 6
+________________________________________________________________________________________________
+Distance from right: 7.06
+Distance from back : 5.66
+Distance from front: 6.79
+Distance from left : 4.21
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 6.5
+________________________________________________________________________________________________
+Distance from right: 7.06
+Distance from back : 5.54
+Distance from front: 6.83
+Distance from left : 4.45
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 7
+________________________________________________________________________________________________
+Distance from right: 6.86
+Distance from back : 5.58
+Distance from front: 6.79
+Distance from left : 4.37
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 7.5
+________________________________________________________________________________________________
+Distance from right: 6.94
+Distance from back : 5.46
+Distance from front: 6.83
+Distance from left : 4.52
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 8
+________________________________________________________________________________________________
+Distance from right: 6.94
+Distance from back : 5.66
+Distance from front: 6.79
+Distance from left : 4.33
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 8.5
+________________________________________________________________________________________________
+Distance from right: 6.94
+Distance from back : 5.5
+Distance from front: 7.02
+Distance from left : 4.21
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 9
+________________________________________________________________________________________________
+Distance from right: 6.94
+Distance from back : 5.66
+Distance from front: 7.02
+Distance from left : 4.49
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 9.5
+________________________________________________________________________________________________
+Distance from right: 6.9
+Distance from back : 5.62
+Distance from front: 7.06
+Distance from left : 4.37
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 10
+________________________________________________________________________________________________
+Distance from right: 6.9
+Distance from back : 5.66
+Distance from front: 6.9
+Distance from left : 4.52
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 10.5
+________________________________________________________________________________________________
+Distance from right: 6.9
+Distance from back : 5.5
+Distance from front: 6.98
+Distance from left : 4.56
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 11
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 5.58
+Distance from front: 6.98
+Distance from left : 4.52
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 11.5
+________________________________________________________________________________________________
+Distance from right: 7.06
+Distance from back : 6.83
+Distance from front: 7.14
+Distance from left : 4.33
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 12
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 6.9
+Distance from front: 7.1
+Distance from left : 4.56
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 12.5
+________________________________________________________________________________________________
+Distance from right: 7.33
+Distance from back : 6.94
+Distance from front: 6.86
+Distance from left : 4.56
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 13
+________________________________________________________________________________________________
+Distance from right: 7.64
+Distance from back : 6.71
+Distance from front: 6.83
+Distance from left : 4.56
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 13.5
+________________________________________________________________________________________________
+Distance from right: 6.67
+Distance from back : 6.36
+Distance from front: 6.9
+Distance from left : 4.56
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 14
+________________________________________________________________________________________________
+Distance from right: 6.63
+Distance from back : 6.36
+Distance from front: 6.98
+Distance from left : 4.52
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 14.5
+________________________________________________________________________________________________
+Distance from right: 6.36
+Distance from back : 6.47
+Distance from front: 6.98
+Distance from left : 4.64
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 15
+________________________________________________________________________________________________
+Distance from right: 6.36
+Distance from back : 6.47
+Distance from front: 6.79
+Distance from left : 4.68
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 15.5
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 6.28
+Distance from front: 6.98
+Distance from left : 4.84
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 16
+________________________________________________________________________________________________
+Distance from right: 6.2
+Distance from back : 6.24
+Distance from front: 7.02
+Distance from left : 4.8
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 16.5
+________________________________________________________________________________________________
+Distance from right: 6.08
+Distance from back : 6.16
+Distance from front: 7.41
+Distance from left : 4.88
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 17
+________________________________________________________________________________________________
+Distance from right: 6.28
+Distance from back : 5.69
+Distance from front: 7.8
+Distance from left : 4.99
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 17.5
+________________________________________________________________________________________________
+Distance from right: 6.28
+Distance from back : 5.77
+Distance from front: 8.15
+Distance from left : 5.11
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 18
+________________________________________________________________________________________________
+Distance from right: 6.32
+Distance from back : 5.77
+Distance from front: 8.11
+Distance from left : 5.15
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 18.5
+________________________________________________________________________________________________
+Distance from right: 6.28
+Distance from back : 5.77
+Distance from front: 7.8
+Distance from left : 5.11
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 19
+________________________________________________________________________________________________
+Distance from right: 6.2
+Distance from back : 5.77
+Distance from front: 7.72
+Distance from left : 5.11
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 19.5
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 5.77
+Distance from front: 7.57
+Distance from left : 4.95
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 20
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 5.77
+Distance from front: 7.61
+Distance from left : 5.11
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 20.5
+________________________________________________________________________________________________
+Distance from right: 6.16
+Distance from back : 5.77
+Distance from front: 7.29
+Distance from left : 5.19
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 21
+________________________________________________________________________________________________
+Distance from right: 6.16
+Distance from back : 5.62
+Distance from front: 7.33
+Distance from left : 4.99
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 21.5
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 5.77
+Distance from front: 7.53
+Distance from left : 4.95
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 22
+________________________________________________________________________________________________
+Distance from right: 6.2
+Distance from back : 5.77
+Distance from front: 7.61
+Distance from left : 4.76
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 22.5
+________________________________________________________________________________________________
+Distance from right: 6.2
+Distance from back : 5.77
+Distance from front: 7.72
+Distance from left : 4.6
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 23
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 5.62
+Distance from front: 7.92
+Distance from left : 4.6
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 23.5
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 5.73
+Distance from front: 8.35
+Distance from left : 4.45
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 24
+________________________________________________________________________________________________
+Distance from right: 5.93
+Distance from back : 5.73
+Distance from front: 7.45
+Distance from left : 4.56
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 24.5
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 5.81
+Distance from front: 6.98
+Distance from left : 4.49
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 25
+________________________________________________________________________________________________
+Distance from right: 5.89
+Distance from back : 5.81
+Distance from front: 7.06
+Distance from left : 4.64
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 25.5
+________________________________________________________________________________________________
+Distance from right: 6.08
+Distance from back : 5.73
+Distance from front: 7.06
+Distance from left : 4.6
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 26
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 5.62
+Distance from front: 6.98
+Distance from left : 4.6
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 26.5
+________________________________________________________________________________________________
+Distance from right: 5.89
+Distance from back : 5.77
+Distance from front: 7.45
+Distance from left : 4.91
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 27
+________________________________________________________________________________________________
+Distance from right: 5.89
+Distance from back : 5.66
+Distance from front: 7.21
+Distance from left : 4.88
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 27.5
+________________________________________________________________________________________________
+Distance from right: 5.93
+Distance from back : 5.73
+Distance from front: 7.21
+Distance from left : 5.11
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 28
+________________________________________________________________________________________________
+Distance from right: 6.08
+Distance from back : 5.42
+Distance from front: 7.41
+Distance from left : 4.95
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 28.5
+________________________________________________________________________________________________
+Distance from right: 6.16
+Distance from back : 5.85
+Distance from front: 7.45
+Distance from left : 4.49
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 29
+________________________________________________________________________________________________
+Distance from right: 6.24
+Distance from back : 6.01
+Distance from front: 7.49
+Distance from left : 4.72
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 29.5
+________________________________________________________________________________________________
+Distance from right: 6.28
+Distance from back : 6.04
+Distance from front: 7.41
+Distance from left : 4.72
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 30
+________________________________________________________________________________________________
+Distance from right: 6.28
+Distance from back : 5.46
+Distance from front: 7.45
+Distance from left : 4.6
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 30.5
+________________________________________________________________________________________________
+Distance from right: 6.28
+Distance from back : 6.51
+Distance from front: 7.57
+Distance from left : 4.17
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 31
+________________________________________________________________________________________________
+Distance from right: 6.47
+Distance from back : 5.73
+Distance from front: 7.8
+Distance from left : 4.13
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 31.5
+________________________________________________________________________________________________
+Distance from right: 6.08
+Distance from back : 5.97
+Distance from front: 8.11
+Distance from left : 3.82
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 32
+________________________________________________________________________________________________
+Distance from right: 6.08
+Distance from back : 6.44
+Distance from front: 7.88
+Distance from left : 3.55
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 32.5
+________________________________________________________________________________________________
+Distance from right: 6.79
+Distance from back : 6.32
+Distance from front: 7.76
+Distance from left : 3.71
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 33
+________________________________________________________________________________________________
+Distance from right: 5.89
+Distance from back : 5.97
+Distance from front: 7.84
+Distance from left : 5.66
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 33.5
+________________________________________________________________________________________________
+Distance from right: 5.77
+Distance from back : 5.85
+Distance from front: 8.23
+Distance from left : 6.59
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 34
+________________________________________________________________________________________________
+Distance from right: 5.69
+Distance from back : 5.77
+Distance from front: 7.72
+Distance from left : 6.79
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 34.5
+________________________________________________________________________________________________
+Distance from right: 5.58
+Distance from back : 5.73
+Distance from front: 7.57
+Distance from left : 6.24
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 35
+________________________________________________________________________________________________
+Distance from right: 5.89
+Distance from back : 5.46
+Distance from front: 7.45
+Distance from left : 6.01
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 35.5
+________________________________________________________________________________________________
+Distance from right: 5.62
+Distance from back : 6.16
+Distance from front: 7.41
+Distance from left : 5.69
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 36
+________________________________________________________________________________________________
+Distance from right: 5.77
+Distance from back : 5.93
+Distance from front: 7.18
+Distance from left : 5.69
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 36.5
+________________________________________________________________________________________________
+Distance from right: 5.58
+Distance from back : 6.01
+Distance from front: 7.33
+Distance from left : 5.77
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 37
+________________________________________________________________________________________________
+Distance from right: 5.81
+Distance from back : 6.08
+Distance from front: 7.18
+Distance from left : 5.58
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 37.5
+________________________________________________________________________________________________
+Distance from right: 5.77
+Distance from back : 6.67
+Distance from front: 7.49
+Distance from left : 5.66
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 38
+________________________________________________________________________________________________
+Distance from right: 5.77
+Distance from back : 6.51
+Distance from front: 7.53
+Distance from left : 5.85
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 38.5
+________________________________________________________________________________________________
+Distance from right: 5.93
+Distance from back : 6.51
+Distance from front: 7.84
+Distance from left : 5.73
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 39
+________________________________________________________________________________________________
+Distance from right: 7.88
+Distance from back : 6.55
+Distance from front: 7.61
+Distance from left : 5.66
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 39.5
+________________________________________________________________________________________________
+Distance from right: 7.84
+Distance from back : 6.4
+Distance from front: 7.57
+Distance from left : 5.46
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 40
+________________________________________________________________________________________________
+Distance from right: 7.88
+Distance from back : 6.24
+Distance from front: 7.41
+Distance from left : 5.34
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 40.5
+________________________________________________________________________________________________
+Distance from right: 7.88
+Distance from back : 6.55
+Distance from front: 7.1
+Distance from left : 5.19
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 41
+________________________________________________________________________________________________
+Distance from right: 8.23
+Distance from back : 6.59
+Distance from front: 7.33
+Distance from left : 5.19
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 41.5
+________________________________________________________________________________________________
+Distance from right: 8.31
+Distance from back : 6.55
+Distance from front: 7.45
+Distance from left : 4.91
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 42
+________________________________________________________________________________________________
+Distance from right: 8.35
+Distance from back : 6.59
+Distance from front: 7.41
+Distance from left : 4.8
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 42.5
+________________________________________________________________________________________________
+Distance from right: 31.04
+Distance from back : 6.01
+Distance from front: 7.02
+Distance from left : 4.8
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 43
+________________________________________________________________________________________________
+Distance from right: 580.83
+Distance from back : 6.32
+Distance from front: 7.37
+Distance from left : 4.8
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 43.5
+________________________________________________________________________________________________
+Distance from right: 5.97
+Distance from back : 6.4
+Distance from front: 7.37
+Distance from left : 4.68
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 44
+________________________________________________________________________________________________
+Distance from right: 6.12
+Distance from back : 6.16
+Distance from front: 7.64
+Distance from left : 4.91
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 44.5
+________________________________________________________________________________________________
+Distance from right: 6.44
+Distance from back : 5.77
+Distance from front: 31.08
+Distance from left : 4.68
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 45
+________________________________________________________________________________________________
+Distance from right: 6.28
+Distance from back : 5.97
+Distance from front: 8.42
+Distance from left : 5.46
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 45.5
+________________________________________________________________________________________________
+Distance from right: 6.28
+Distance from back : 5.93
+Distance from front: 8.07
+Distance from left : 6.71
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 46
+________________________________________________________________________________________________
+Distance from right: 6.28
+Distance from back : 5.97
+Distance from front: 7.76
+Distance from left : 6.24
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 46.5
+________________________________________________________________________________________________
+Distance from right: 6.44
+Distance from back : 6.04
+Distance from front: 7.61
+Distance from left : 6.44
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 47
+________________________________________________________________________________________________
+Distance from right: 7.64
+Distance from back : 6.4
+Distance from front: 30.89
+Distance from left : 6.01
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 47.5
+________________________________________________________________________________________________
+Distance from right: 7.84
+Distance from back : 6.16
+Distance from front: 607
+Distance from left : 6.04
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 48
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 6.24
+Distance from front: 31.01
+Distance from left : 5.54
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 48.5
+________________________________________________________________________________________________
+Distance from right: 6.01
+Distance from back : 6.47
+Distance from front: 7.8
+Distance from left : 5.69
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 49
+________________________________________________________________________________________________
+Distance from right: 6.01
+Distance from back : 6.36
+Distance from front: 7.84
+Distance from left : 5.58
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 49.5
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 6.36
+Distance from front: 7.64
+Distance from left : 5.62
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 50
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 6.36
+Distance from front: 7.53
+Distance from left : 5.73
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 50.5
+________________________________________________________________________________________________
+Distance from right: 6.01
+Distance from back : 6.36
+Distance from front: 7.49
+Distance from left : 5.97
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 51
+________________________________________________________________________________________________
+Distance from right: 6.04
+Distance from back : 6.12
+Distance from front: 22.85
+Distance from left : 5.38
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 51.5
+________________________________________________________________________________________________
+Distance from right: 6.16
+Distance from back : 6.47
+Distance from front: 577
+Distance from left : 5.34
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 52
+________________________________________________________________________________________________
+Distance from right: 6.16
+Distance from back : 6.12
+Distance from front: 577
+Distance from left : 5.38
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 52.5
+________________________________________________________________________________________________
+Distance from right: 6.16
+Distance from back : 6.12
+Distance from front: 577
+Distance from left : 5.58
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 53
+________________________________________________________________________________________________
+Distance from right: 6.2
+Distance from back : 6.16
+Distance from front: 577
+Distance from left : 5.81
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 53.5
+________________________________________________________________________________________________
+Distance from right: 6.2
+Distance from back : 6.01
+Distance from front: 577
+Distance from left : 5.73
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 54
+________________________________________________________________________________________________
+Distance from right: 6.16
+Distance from back : 6.16
+Distance from front: 577
+Distance from left : 5.73
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 54.5
+________________________________________________________________________________________________
+Distance from right: 6.24
+Distance from back : 6.2
+Distance from front: 577
+Distance from left : 5.73
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 55
+________________________________________________________________________________________________
+Distance from right: 6.2
+Distance from back : 6.04
+Distance from front: 577
+Distance from left : 5.73
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 55.5
+________________________________________________________________________________________________
+Distance from right: 6.2
+Distance from back : 6.04
+Distance from front: 577
+Distance from left : 5.77
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 56
+________________________________________________________________________________________________
+Distance from right: 6.2
+Distance from back : 6.01
+Distance from front: 577
+Distance from left : 5.73
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 56.5
+________________________________________________________________________________________________
+Distance from right: 6.24
+Distance from back : 6.36
+Distance from front: 577
+Distance from left : 5.58
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 57
+________________________________________________________________________________________________
+Distance from right: 6.2
+Distance from back : 6.16
+Distance from front: 577
+Distance from left : 5.81
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 57.5
+________________________________________________________________________________________________
+Distance from right: 6.2
+Distance from back : 6.2
+Distance from front: 577
+Distance from left : 5.69
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 58
+________________________________________________________________________________________________
+Distance from right: 7.33
+Distance from back : 6.36
+Distance from front: 577
+Distance from left : 5.66
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 58.5
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 6.32
+Distance from front: 577
+Distance from left : 5.58
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 59
+________________________________________________________________________________________________
+Distance from right: 6.83
+Distance from back : 6.16
+Distance from front: 577
+Distance from left : 5.42
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 59.5
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 6.2
+Distance from front: 577
+Distance from left : 5.3
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 60
+________________________________________________________________________________________________
+Distance from right: 7.14
+Distance from back : 6.2
+Distance from front: 577
+Distance from left : 5.3
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 60.5
+________________________________________________________________________________________________
+Distance from right: 7.33
+Distance from back : 6.28
+Distance from front: 577
+Distance from left : 5.23
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 61
+________________________________________________________________________________________________
+Distance from right: 7.64
+Distance from back : 6.44
+Distance from front: 577
+Distance from left : 5.3
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 61.5
+________________________________________________________________________________________________
+Distance from right: 7.68
+Distance from back : 6.44
+Distance from front: 577
+Distance from left : 5.27
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 62
+________________________________________________________________________________________________
+Distance from right: 7.68
+Distance from back : 6.47
+Distance from front: 577
+Distance from left : 5.34
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 62.5
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 6.51
+Distance from front: 577
+Distance from left : 5.15
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 63
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 6.51
+Distance from front: 577
+Distance from left : 5.38
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 63.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 6.51
+Distance from front: 577
+Distance from left : 5.27
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 64
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 6.47
+Distance from front: 577
+Distance from left : 5.54
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 64.5
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 6.47
+Distance from front: 577
+Distance from left : 5.62
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 65
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 6.47
+Distance from front: 577
+Distance from left : 5.46
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 65.5
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 6.4
+Distance from front: 577
+Distance from left : 5.42
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 66
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 6.51
+Distance from front: 577
+Distance from left : 5.42
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 66.5
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 6.47
+Distance from front: 577
+Distance from left : 5.42
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 67
+________________________________________________________________________________________________
+Distance from right: 7.45
+Distance from back : 6.51
+Distance from front: 577
+Distance from left : 5.3
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 67.5
+________________________________________________________________________________________________
+Distance from right: 7.45
+Distance from back : 6.51
+Distance from front: 577
+Distance from left : 5.27
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 68
+________________________________________________________________________________________________
+Distance from right: 7.45
+Distance from back : 6.32
+Distance from front: 577
+Distance from left : 5.23
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 68.5
+________________________________________________________________________________________________
+Distance from right: 7.21
+Distance from back : 6.47
+Distance from front: 577
+Distance from left : 5.27
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 69
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 6.24
+Distance from front: 577
+Distance from left : 5.3
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 69.5
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 6.2
+Distance from front: 577
+Distance from left : 5.15
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 70
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 6.2
+Distance from front: 577
+Distance from left : 5.11
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 70.5
+________________________________________________________________________________________________
+Distance from right: 7.33
+Distance from back : 6.24
+Distance from front: 577
+Distance from left : 5.15
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 71
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 6.24
+Distance from front: 577
+Distance from left : 5.11
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 71.5
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 6.63
+Distance from front: 577
+Distance from left : 4.95
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 72
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 6.32
+Distance from front: 577
+Distance from left : 4.99
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 72.5
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 6.36
+Distance from front: 577
+Distance from left : 4.8
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 73
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 6.47
+Distance from front: 577
+Distance from left : 4.88
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 73.5
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 6.75
+Distance from front: 577
+Distance from left : 4.95
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 74
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 6.55
+Distance from front: 577
+Distance from left : 5.11
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 74.5
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 6.79
+Distance from front: 577
+Distance from left : 5.11
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 75
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 5.89
+Distance from front: 577
+Distance from left : 5.11
+Suggestion: Enjoy your ride
+================================================================================================
+Time elpased: 75.5
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 5.03
+Distance from front: 577
+Distance from left : 4.95
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 76
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 2.03
+Distance from front: 577
+Distance from left : 5.34
+Suggestion: Speed up
+================================================================================================
+Time elpased: 76.5
+________________________________________________________________________________________________
+Distance from right: 6.83
+Distance from back : 2.03
+Distance from front: 577
+Distance from left : 5.11
+Suggestion: Speed up
+================================================================================================
+Time elpased: 77
+________________________________________________________________________________________________
+Distance from right: 7.02
+Distance from back : 1.83
+Distance from front: 577
+Distance from left : 4.37
+Suggestion: Speed up
+================================================================================================
+Time elpased: 77.5
+________________________________________________________________________________________________
+Distance from right: 6.59
+Distance from back : 2.03
+Distance from front: 577
+Distance from left : 6.12
+Suggestion: Speed up
+================================================================================================
+Time elpased: 78
+________________________________________________________________________________________________
+Distance from right: 7.02
+Distance from back : 1.48
+Distance from front: 577
+Distance from left : 5.85
+Suggestion: Speed up
+================================================================================================
+Time elpased: 78.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 2.03
+Distance from front: 577
+Distance from left : 3.59
+Suggestion: Speed up
+================================================================================================
+Time elpased: 79
+________________________________________________________________________________________________
+Distance from right: 7.21
+Distance from back : 2.22
+Distance from front: 577
+Distance from left : 3.31
+Suggestion: Speed up
+================================================================================================
+Time elpased: 79.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 2.54
+Distance from front: 577
+Distance from left : 3.28
+Suggestion: Speed up
+================================================================================================
+Time elpased: 80
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 3.2
+Distance from front: 577
+Distance from left : 3.2
+Suggestion: Speed up
+================================================================================================
+Time elpased: 80.5
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 2.57
+Distance from front: 577
+Distance from left : 3.43
+Suggestion: Speed up
+================================================================================================
+Time elpased: 81
+________________________________________________________________________________________________
+Distance from right: 7.45
+Distance from back : 4.49
+Distance from front: 577
+Distance from left : 2.38
+Suggestion: Speed up
+================================================================================================
+Time elpased: 81.5
+________________________________________________________________________________________________
+Distance from right: 7.45
+Distance from back : 5.19
+Distance from front: 577
+Distance from left : 2.5
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 82
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 2.93
+Distance from front: 577
+Distance from left : 2.5
+Suggestion: Speed up
+================================================================================================
+Time elpased: 82.5
+________________________________________________________________________________________________
+Distance from right: 7.45
+Distance from back : 4.52
+Distance from front: 577
+Distance from left : 2.38
+Suggestion: Speed up
+================================================================================================
+Time elpased: 83
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 4.21
+Distance from front: 577
+Distance from left : 2.22
+Suggestion: Speed up
+================================================================================================
+Time elpased: 83.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 2.3
+Distance from front: 577
+Distance from left : 2.15
+Suggestion: Speed up
+================================================================================================
+Time elpased: 84
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 2.34
+Distance from front: 577
+Distance from left : 2.22
+Suggestion: Speed up
+================================================================================================
+Time elpased: 84.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 2.57
+Distance from front: 577
+Distance from left : 1.99
+Suggestion: Speed up
+================================================================================================
+Time elpased: 85
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 2.85
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 85.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 2.69
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 86
+________________________________________________________________________________________________
+Distance from right: 7.33
+Distance from back : 2.69
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 86.5
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 2.69
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 87
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 2.65
+Distance from front: 577
+Distance from left : 1.99
+Suggestion: Speed up
+================================================================================================
+Time elpased: 87.5
+________________________________________________________________________________________________
+Distance from right: 7.37
+Distance from back : 2.69
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 88
+________________________________________________________________________________________________
+Distance from right: 7.21
+Distance from back : 2.85
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 88.5
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 2.85
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 89
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 2.69
+Distance from front: 577
+Distance from left : 1.99
+Suggestion: Speed up
+================================================================================================
+Time elpased: 89.5
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 2.69
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 90
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 2.46
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 90.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 2.65
+Distance from front: 577
+Distance from left : 2.11
+Suggestion: Speed up
+================================================================================================
+Time elpased: 91
+________________________________________________________________________________________________
+Distance from right: 7.45
+Distance from back : 3.51
+Distance from front: 577
+Distance from left : 1.99
+Suggestion: Speed up
+================================================================================================
+Time elpased: 91.5
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 3.67
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 92
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 3.43
+Distance from front: 577
+Distance from left : 1.79
+Suggestion: Speed up
+================================================================================================
+Time elpased: 92.5
+________________________________________________________________________________________________
+Distance from right: 7.21
+Distance from back : 3.24
+Distance from front: 577
+Distance from left : 1.79
+Suggestion: Speed up
+================================================================================================
+Time elpased: 93
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 3.16
+Distance from front: 577
+Distance from left : 1.87
+Suggestion: Speed up
+================================================================================================
+Time elpased: 93.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 3.16
+Distance from front: 577
+Distance from left : 1.87
+Suggestion: Speed up
+================================================================================================
+Time elpased: 94
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 3.71
+Distance from front: 577
+Distance from left : 1.72
+Suggestion: Speed up
+================================================================================================
+Time elpased: 94.5
+________________________________________________________________________________________________
+Distance from right: 7.21
+Distance from back : 3.63
+Distance from front: 577
+Distance from left : 1.79
+Suggestion: Speed up
+================================================================================================
+Time elpased: 95
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 4.68
+Distance from front: 577
+Distance from left : 1.83
+Suggestion: Speed up
+================================================================================================
+Time elpased: 95.5
+________________________________________________________________________________________________
+Distance from right: 7.25
+Distance from back : 2.26
+Distance from front: 577
+Distance from left : 1.79
+Suggestion: Speed up
+================================================================================================
+Time elpased: 96
+________________________________________________________________________________________________
+Distance from right: 15.13
+Distance from back : 2.26
+Distance from front: 577
+Distance from left : 2.07
+Suggestion: Speed up
+================================================================================================
+Time elpased: 96.5
+________________________________________________________________________________________________
+Distance from right: 7.45
+Distance from back : 3.04
+Distance from front: 577
+Distance from left : 1.91
+Suggestion: Speed up
+================================================================================================
+Time elpased: 97
+________________________________________________________________________________________________
+Distance from right: 8.38
+Distance from back : 18.06
+Distance from front: 577
+Distance from left : 2.07
+Suggestion: Apply breaks
+================================================================================================
+Time elpased: 97.5
+________________________________________________________________________________________________
+Distance from right: 8.46
+Distance from back : 2.85
+Distance from front: 577
+Distance from left : 2.34
+Suggestion: Speed up
+================================================================================================
+Time elpased: 98
+________________________________________________________________________________________________
+Distance from right: 7.1
+Distance from back : 2.89
+Distance from front: 577
+Distance from left : 2.15
+Suggestion: Speed up
+================================================================================================
+Time elpased: 98.5
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 2.77
+Distance from front: 577
+Distance from left : 1.91
+Suggestion: Speed up
+================================================================================================
+Time elpased: 99
+________________________________________________________________________________________________
+Distance from right: 7.61
+Distance from back : 2.65
+Distance from front: 577
+Distance from left : 2.07
+Suggestion: Speed up
+================================================================================================
+Time elpased: 99.5
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 2.73
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 100
+________________________________________________________________________________________________
+Distance from right: 8.15
+Distance from back : 2.69
+Distance from front: 577
+Distance from left : 2.07
+Suggestion: Speed up
+================================================================================================
+Time elpased: 100.5
+________________________________________________________________________________________________
+Distance from right: 8.62
+Distance from back : 2.5
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 101
+________________________________________________________________________________________________
+Distance from right: 7.06
+Distance from back : 2.54
+Distance from front: 577
+Distance from left : 2.03
+Suggestion: Speed up
+================================================================================================
+Time elpased: 101.5
+________________________________________________________________________________________________
+Distance from right: 7.02
+Distance from back : 2.54
+Distance from front: 577
+Distance from left : 2.07
+Suggestion: Speed up
+================================================================================================
+Time elpased: 102
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 2.54
+Distance from front: 577
+Distance from left : 1.87
+Suggestion: Speed up
+================================================================================================
+Time elpased: 102.5
+________________________________________________________________________________________________
+Distance from right: 7.29
+Distance from back : 2.46
+Distance from front: 577
+Distance from left : 1.87
+Suggestion: Speed up
+================================================================================================
+Time elpased: 103
+________________________________________________________________________________________________
+Distance from right: 7.57
+Distance from back : 2.5
+Distance from front: 577
+Distance from left : 2.07
+Suggestion: Speed up
+================================================================================================
+Time elpased: 103.5
+________________________________________________________________________________________________
+Distance from right: 6.98
+Distance from back : 2.38
+Distance from front: 577
+Distance from left : 2.69
+Suggestion: Speed up
+================================================================================================
+Time elpased: 104
+________________________________________________________________________________________________
+Distance from right: 7.37
+Distance from back : 2.5
+Distance from front: 577
+Distance from left : 2.65
+Suggestion: Speed up
+================================================================================================
+Time elpased: 104.5
+________________________________________________________________________________________________
+Distance from right: 7.53
+Distance from back : 2.5
+Distance from front: 577
+Distance from left : 2.65
+Suggestion: Speed up
+================================================================================================
+Time elpased: 105
+________________________________________________________________________________________________
+Distance from right: 7.64
+Distance from back : 2.57
+Distance from front: 577
+Distance from left : 2.61
+Suggestion: Speed up
+================================================================================================
+Time elpased: 105.5
+________________________________________________________________________________________________
+Distance from right: 7.49
+Distance from back : 2.61
+Distance from front: 577
+Distance from left : 2.65
+Suggestion: Speed up
+================================================================================================
+Time elpased: 106
+________________________________________________________________________________________________
+Distance from right: 7.53
+Distance from back : 2.57
+Distance from front: 577
+Distance from left : 2.57
+Suggestion: Speed up
+================================================================================================
+Time elpased: 106.5
+________________________________________________________________________________________________
+Distance from right: 7.49
+Distance from back : 2.57
+Distance from front: 577
+Distance from left : 2.57
+Suggestion: Speed up
+================================================================================================
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Mon Jun 24 2019 14:28:45 GMT+0500 (Pakistan Standard Time)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Time elpased: 0
+________________________________________________________________________________________________
+Distance from right: undefined
+Distance from back : undefined
+Distance from front: undefined
+Distance from left : undefined
+Suggestion: 
+================================================================================================
+Time elpased: 0.5
+________________________________________________________________________________________________
+Distance from right: 8.27
+Distance from back : 2.46
+Distance from front: 3.08
+Distance from left : 2.54
+Suggestion: Move right
+================================================================================================
+Time elpased: 1
+________________________________________________________________________________________________
+Distance from right: 613.08
+Distance from back : 2.38
+Distance from front: 3.04
+Distance from left : 2.46
+Suggestion: Move right
+================================================================================================
+Time elpased: 1.5
+________________________________________________________________________________________________
+Distance from right: 9.75
+Distance from back : 2.42
+Distance from front: 3.08
+Distance from left : 2.46
+Suggestion: Move right
+================================================================================================
+Time elpased: 2
+________________________________________________________________________________________________
+Distance from right: 8.03
+Distance from back : 2.5
+Distance from front: 3.12
+Distance from left : 2.69
+Suggestion: Move right
+================================================================================================
+Time elpased: 2.5
+________________________________________________________________________________________________
+Distance from right: 7.02
+Distance from back : 2.42
+Distance from front: 2.18
+Distance from left : 2.34
+Suggestion: Move right
+================================================================================================
+Time elpased: 3
+________________________________________________________________________________________________
+Distance from right: 7.06
+Distance from back : 2.38
+Distance from front: 1.09
+Distance from left : 2.38
+Suggestion: Move right
+================================================================================================
+Time elpased: 3.5
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 2.3
+Distance from front: 0.98
+Distance from left : 2.42
+Suggestion: Move right
+================================================================================================
+Time elpased: 4
+________________________________________________________________________________________________
+Distance from right: 7.41
+Distance from back : 2.3
+Distance from front: 1.29
+Distance from left : 2.42
+Suggestion: Move right
+================================================================================================
+Time elpased: 4.5
+________________________________________________________________________________________________
+Distance from right: 6.67
+Distance from back : 2.3
+Distance from front: 1.25
+Distance from left : 2.42
+Suggestion: Move right
+================================================================================================
+Time elpased: 5
+________________________________________________________________________________________________
+Distance from right: 6.67
+Distance from back : 2.42
+Distance from front: 1.25
+Distance from left : 2.42
+Suggestion: Move right
+================================================================================================
+Time elpased: 5.5
+________________________________________________________________________________________________
+Distance from right: 7.21
+Distance from back : 2.34
+Distance from front: 1.29
+Distance from left : 2.57
+Suggestion: Move right
+================================================================================================
+Time elpased: 6
+________________________________________________________________________________________________
+Distance from right: 7.49
+Distance from back : 2.26
+Distance from front: 1.29
+Distance from left : 2.42
+Suggestion: Move right
+================================================================================================
+Time elpased: 6.5
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 2.3
+Distance from front: 1.25
+Distance from left : 2.57
+Suggestion: Move right
+================================================================================================
+Time elpased: 7
+________________________________________________________________________________________________
+Distance from right: 7.18
+Distance from back : 2.26
+Distance from front: 1.29
+Distance from left : 2.54
+Suggestion: Move right
+================================================================================================
+Time elpased: 7.5
+________________________________________________________________________________________________
+Distance from right: 7.21
+Distance from back : 2.3
+Distance from front: 1.33
+Distance from left : 2.57
+Suggestion: Move right
+================================================================================================
+Time elpased: 8
+________________________________________________________________________________________________
+Distance from right: 7.21
+Distance from back : 2.34
+Distance from front: 1.48
+Distance from left : 2.38
+Suggestion: Move right
+================================================================================================
+Time elpased: 8.5
+________________________________________________________________________________________________
+Distance from right: 7.21
+Distance from back : 2.42
+Distance from front: 1.44
+Distance from left : 3.51
+Suggestion: Move right
+================================================================================================
+Time elpased: 9
+________________________________________________________________________________________________
+Distance from right: 6.59
+Distance from back : 2.5
+Distance from front: 1.48
+Distance from left : 4.21
+Suggestion: Move right
+================================================================================================
+Time elpased: 9.5
+________________________________________________________________________________________________
+Distance from right: 6.86
+Distance from back : 2.54
+Distance from front: 1.48
+Distance from left : 5.07
+Suggestion: Move right
+================================================================================================
+Time elpased: 10
+________________________________________________________________________________________________
+Distance from right: 5.27
+Distance from back : 2.69
+Distance from front: 9.48
+Distance from left : 5.85
+Suggestion: Speed up
+================================================================================================
+Time elpased: 10.5
+________________________________________________________________________________________________
+Distance from right: 2.93
+Distance from back : 3
+Distance from front: 9.55
+Distance from left : 6.2
+Suggestion: Speed up
+================================================================================================
+Time elpased: 11
+________________________________________________________________________________________________
+Distance from right: 2.26
+Distance from back : 3.04
+Distance from front: 9.05
+Distance from left : 6.44
+Suggestion: Speed up
+================================================================================================
+Time elpased: 11.5
+________________________________________________________________________________________________
+Distance from right: 1.91
+Distance from back : 3.35
+Distance from front: 77.42
+Distance from left : 6.4
+Suggestion: Speed up
+================================================================================================
+Time elpased: 12
+________________________________________________________________________________________________
+Distance from right: 1.87
+Distance from back : 3.51
+Distance from front: 11.15
+Distance from left : 6.63
+Suggestion: Speed up
+================================================================================================
+Time elpased: 12.5
+________________________________________________________________________________________________
+Distance from right: 2.03
+Distance from back : 3.47
+Distance from front: 2.93
+Distance from left : 7.29
+Suggestion: Move left
+================================================================================================
+Time elpased: 13
+________________________________________________________________________________________________
+Distance from right: 1.99
+Distance from back : 3.47
+Distance from front: 8.85
+Distance from left : 7.72
+Suggestion: Speed up
+================================================================================================
+Time elpased: 13.5
+________________________________________________________________________________________________
+Distance from right: 2.73
+Distance from back : 3.82
+Distance from front: 24.73
+Distance from left : 6.71
+Suggestion: Speed up
+================================================================================================
+Time elpased: 14
+________________________________________________________________________________________________
+Distance from right: 2.77
+Distance from back : 4.06
+Distance from front: 21.45
+Distance from left : 6.63
+Suggestion: Speed up
+================================================================================================
+Time elpased: 14.5
+________________________________________________________________________________________________
+Distance from right: 2.89
+Distance from back : 3.82
+Distance from front: 108.73
+Distance from left : 7.1
+Suggestion: Speed up
+================================================================================================
+Time elpased: 15
+________________________________________________________________________________________________
+Distance from right: 2.96
+Distance from back : 3.74
+Distance from front: 9.95
+Distance from left : 7.41
+Suggestion: Speed up
+================================================================================================
+Time elpased: 15.5
+________________________________________________________________________________________________
+Distance from right: 2.77
+Distance from back : 3.35
+Distance from front: 2.65
+Distance from left : 6.24
+Suggestion: Move left
+================================================================================================
+Time elpased: 16
+________________________________________________________________________________________________
+Distance from right: 2.77
+Distance from back : 3.43
+Distance from front: 26.32
+Distance from left : 6.24
+Suggestion: Speed up
+================================================================================================
+Time elpased: 16.5
+________________________________________________________________________________________________
+Distance from right: 2.65
+Distance from back : 3.71
+Distance from front: 107.25
+Distance from left : 4.99
+Suggestion: Speed up
+================================================================================================
+Time elpased: 17
+________________________________________________________________________________________________
+Distance from right: 2.89
+Distance from back : 3.71
+Distance from front: 17.24
+Distance from left : 5.23
+Suggestion: Speed up
+================================================================================================
+Time elpased: 17.5
+________________________________________________________________________________________________
+Distance from right: 2.93
+Distance from back : 3.94
+Distance from front: 12.05
+Distance from left : 5.34
+Suggestion: Speed up
+================================================================================================
+Time elpased: 18
+________________________________________________________________________________________________
+Distance from right: 3
+Distance from back : 3.67
+Distance from front: 107.29
+Distance from left : 5.34
+Suggestion: Speed up
+================================================================================================
+Time elpased: 18.5
+________________________________________________________________________________________________
+Distance from right: 3.08
+Distance from back : 3.94
+Distance from front: 2.57
+Distance from left : 5.62
+Suggestion: Move left
+================================================================================================
+Time elpased: 19
+________________________________________________________________________________________________
+Distance from right: 3.12
+Distance from back : 3.86
+Distance from front: 11.86
+Distance from left : 5.34
+Suggestion: Speed up
+================================================================================================
+Time elpased: 19.5
+________________________________________________________________________________________________
+Distance from right: 2.73
+Distance from back : 3.98
+Distance from front: 11.86
+Distance from left : 5.3
+Suggestion: Speed up
+================================================================================================
+Time elpased: 20
+________________________________________________________________________________________________
+Distance from right: 2.85
+Distance from back : 4.17
+Distance from front: 2.65
+Distance from left : 5.11
+Suggestion: Move left
+================================================================================================
+Time elpased: 20.5
+________________________________________________________________________________________________
+Distance from right: 2.89
+Distance from back : 4.02
+Distance from front: 2.85
+Distance from left : 7.25
+Suggestion: Move left
+================================================================================================
+Time elpased: 21
+________________________________________________________________________________________________
+Distance from right: 2.93
+Distance from back : 3.86
+Distance from front: 3
+Distance from left : 6.9
+Suggestion: Move left
+================================================================================================
+Time elpased: 21.5
+________________________________________________________________________________________________
+Distance from right: 2.85
+Distance from back : 4.02
+Distance from front: 64.23
+Distance from left : 7.18
+Suggestion: Speed up
+================================================================================================
+Time elpased: 22
+________________________________________________________________________________________________
+Distance from right: 2.89
+Distance from back : 4.02
+Distance from front: 25.51
+Distance from left : 6.94
+Suggestion: Speed up
+================================================================================================
+Time elpased: 22.5
+________________________________________________________________________________________________
+Distance from right: 2.89
+Distance from back : 4.06
+Distance from front: 25.47
+Distance from left : 6.94
+Suggestion: Speed up
+================================================================================================
+Time elpased: 23
+________________________________________________________________________________________________
+Distance from right: 2.89
+Distance from back : 3.86
+Distance from front: 25.43
+Distance from left : 6.9
+Suggestion: Speed up
+================================================================================================
+Time elpased: 23.5
+________________________________________________________________________________________________
+Distance from right: 2.93
+Distance from back : 4.02
+Distance from front: 60.72
+Distance from left : 7.06
+Suggestion: Speed up
+================================================================================================
+Time elpased: 24
+________________________________________________________________________________________________
+Distance from right: 3.08
+Distance from back : 4.02
+Distance from front: 97.5
+Distance from left : 7.06
+Suggestion: Speed up
+================================================================================================
+Time elpased: 24.5
+________________________________________________________________________________________________
+Distance from right: 2.54
+Distance from back : 4.21
+Distance from front: 47.74
+Distance from left : 6.47
+Suggestion: Speed up
+================================================================================================
